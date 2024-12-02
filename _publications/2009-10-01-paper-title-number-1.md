@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "The Crowning Crypto: Identifying Influential Cryptocurrencies through Network Science"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper does analyze the dynamic nature of the cryptocurrency market from a network science perspective provides insight into the complex underlying relationships among cryptocurrencies. Through this research, we explore the growth of the cryptocurrency market from a network science perspective.'
 date: 2009-10-01
-venue: 'Journal 1'
+venue: '2023 AMS Spring Southeastern Sectional Meeting'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://meetings.ams.org/math/spring2023se/meetingapp.cgi/Paper/24022'
+citation: 'Arnav Hiray*, Vishwa Shah, Pratvi Shah, Agam Shah, Sudheer Chava, and Mukesh Tiwari
+.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
