@@ -1,14 +1,17 @@
 ---
-title: "Paper Title Number 3"
+title: "CoCoHD: Congress Committee Hearing Dataset"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2010-10-01-paper-title-number-1
+excerpt: 'U.S. congressional hearings significantly influence the national economy and social fabric, impacting individual lives. Despite their importance, there is a lack of comprehensive datasets for analyzing these discourses. '
+date: 2024-11-01
+venue: 'Association for Computational Linguistics, Miami, Florida, USA'
+slidesurl: 'https://aclanthology.org/2024.findings-emnlp.911.pdf'
+paperurl: 'https://aclanthology.org/2024.findings-emnlp.911/?trk=public_post_comment-text'
+citation: ''
+
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract
+
+U.S. congressional hearings significantly influence the national economy and social fabric, impacting individual lives. Despite their importance, there is a lack of comprehensive datasets for analyzing these discourses. To address this, we propose the **Co**ngress **Co**mmittee **H**earing **D**ataset (CoCoHD), covering hearings from 1997 to 2024 across 86 committees, with 32,697 records. This dataset enables researchers to study policy language on critical issues like healthcare, LGBTQ+ rights, and climate justice. We demonstrate its potential with a case study on 1,000 energy-related sentences, analyzing the Energy and Commerce Committee’s stance on fossil fuel consumption. By fine-tuning pre-trained language models, we create energy-relevant measures for each hearing. Our market analysis shows that natural language analysis using CoCoHD can predict and highlight trends in the energy sector.
