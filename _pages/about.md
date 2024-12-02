@@ -11,5 +11,5 @@ I am an undergraduate student at Georgia Institute of Technology. I am majoring 
 
 I was honored with 'Fintech Fellow' at Georgia Tech Financial Services Innovation Lab (FSIL) for my contribution to research. I am associated with FSIL sicne my freshman year and has been actively involved in research since then. 
 
-I am interested in re- searching stochastic processes at the intersection of probability, statistics, and optimization to advance methods for understanding interconnectedness in financial markets.
+I am interested in researching stochastic processes at the intersection of probability, statistics, and optimization to advance methods for understanding interconnectedness in financial markets.
 
