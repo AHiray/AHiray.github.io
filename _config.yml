@@ -24,18 +24,15 @@ author:
   avatar           : "profile.png"
   name             : "Arnav Hiray"
   pronouns         : # example: "she/her"  
-  bio              : "BS Industrial Engineering, 
-                     "BS Mathematics"
+  bio              : "BS Industrial Engineerin, BS Mathematics"
   location         : "Atlanta, Georgia"
   employer         : "Gerogia Institute of Technology"
   email            : "ahiray3@gatech.edu"
-  linked-in        : "https://www.linkedin.com/in/arnav-hiray"
 
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/?searchtype=author&query=Arnav%20Hiray"
   googlescholar    : "https://scholar.google.com/citations?user=T_q5ZoQAAAAJ&hl=en"
-  meritpage        : "https://meritpages.com/Arnav-Hiray/7199999"
   orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
