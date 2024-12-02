@@ -1,14 +1,17 @@
 ---
-title: "Paper Title Number 2"
+title: "Numerical Claim Detection in Finance: A New Financial Dataset, Weak-Supervision Model, and Market Analysis"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2010-10-01-paper-title-number-1
+excerpt: 'In this paper, we investigate the influence of claims in analyst reports and earnings calls on financial market returns, considering them as significant quarterly events for publicly traded companies. '
+date: 2024-11-01
+venue: 'In Proceedings of the Seventh Fact Extraction and VERification Workshop (FEVER), EMNLP 2024'
+slidesurl: ''
+paperurl: 'https://aclanthology.org/2024.fever-1.21/?trk=public_post_comment-text'
+citation: ''
+
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract
+
+In this paper, we investigate the influence of claims in analyst reports and earnings calls on financial market returns, considering them as significant quarterly events for publicly traded companies. To facilitate a comprehensive analysis, we construct a new financial dataset for the claim detection task in the financial domain. We benchmark various language models on this dataset and propose a novel weak-supervision model that incorporates the knowledge of subject matter experts (SMEs) in the aggregation function, outperforming existing approaches. We also demonstrate the practical utility of our proposed model by constructing a novel measure of *optimism*. Here, we observe the dependence of earnings surprise and return on our optimism measure. Our dataset, models, and code are publicly (under CC BY 4.0 license) available on GitHub.
