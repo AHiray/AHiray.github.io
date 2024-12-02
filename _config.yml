@@ -226,9 +226,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  mentors:
-    output: true
-    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -284,14 +281,6 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
-  # _mentors
-  - scope:
-      path: ""
-      type: mentors
-    values:
-      layout: mentors
       author_profile: true
       share: true
 
