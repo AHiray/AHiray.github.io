@@ -3,9 +3,9 @@ title: "The Crowning Crypto: examining the evolution of cryptocurrency and commu
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: 'Analyzing the dynamic nature of the cryptocurrency market from a network science perspective provides insight into the complex underlying relationships among cryptocurrencies.'
+date: 2023-03-19
+venue: '2023 AMS Spring Southeastern Sectional Meeting'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://meetings.ams.org/math/spring2023se/meetingapp.cgi/Paper/24022'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
