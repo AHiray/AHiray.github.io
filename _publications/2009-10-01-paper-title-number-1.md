@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "The Crowning Crypto: examining the evolution of cryptocurrency and community structures through network science."
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-1
