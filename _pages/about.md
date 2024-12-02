@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at Georgia Institute of Technology. I am majoring in Industrial Engineering (Advanced Studies in Operations Research and Statistics) and B.S in Mathematics (Probability and Statistics). 
+I am an undergraduate student at Georgia Institute of Technology. I am majoring in Industrial Engineering (Advanced Studies in Operations Research and Statistics) and Mathematics (Probability and Statistics). I am an undergraduate researcher and my research is mainly focused on application of network science to financial markets as well as optimizing mathematical modelling. 
+
+I am honored with 'Fintech Fellow' at Georgia Tech Financial Services Innovation Lab (FSIL) for my contribution to research. I am associated with FSIL sicne my freshman year and has been actively involved in research since then. 
+
+ stochastic processes at the intersection of probability, statistics, and optimization to advance methods for understanding interconnectedness in financial markets.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
