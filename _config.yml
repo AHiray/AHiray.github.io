@@ -25,10 +25,11 @@ author:
   name             : "Arnav Hiray"
   pronouns         : # example: "she/her"  
   bio              : "BS Industrial Engineering, BS Mathematics"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Atlanta, Georgia"
+  employer         : "Gerogia Institute of Technology"
+  email            : "ahiray3@gatech.edu"
+  linked-in        : "https://www.linkedin.com/in/arnav-hiray"
+
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
