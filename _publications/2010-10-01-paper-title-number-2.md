@@ -5,8 +5,8 @@ category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: 'In this paper, we investigate the influence of claims in analyst reports and earnings calls on financial market returns, considering them as significant quarterly events for publicly traded companies. '
 date: 2024-11-01
-venue: 'In Proceedings of the Seventh Fact Extraction and VERification Workshop (FEVER), EMNLP 2024'
-slidesurl: ''
+venue: 'Association for Computational Linguistics, Miami, Florida, USA'
+slidesurl: 'https://aclanthology.org/2024.fever-1.21.pdf'
 paperurl: 'https://aclanthology.org/2024.fever-1.21/?trk=public_post_comment-text'
 citation: ''
 
