@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper does analyze the dynamic nature of the cryptocurrency market from a network science perspective provides insight into the complex underlying relationships among cryptocurrencies. Through this research, we explore the growth of the cryptocurrency market from a network science perspective.'
-date: 2009-10-01
+date: 2023-03-19
 venue: '2023 AMS Spring Southeastern Sectional Meeting'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://meetings.ams.org/math/spring2023se/meetingapp.cgi/Paper/24022'
