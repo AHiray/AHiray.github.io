@@ -5,9 +5,10 @@ categories:
   - Projects
 tags:
   - Directed Reading
-date: 2023-12-01
+
 pdf_url: "https://drive.google.com/file/d/1_B2KF1h0Q4pd3q_Gt88zWHNyO8V3P0wO/view?usp=sharing"
 layout: single
+published_date: false
 ---
 
 ## Final Presentation Slides
