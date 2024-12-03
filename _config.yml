@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Arnav Hiray"
   pronouns         : # example: "she/her"  
-  bio              : "BS Industrial Engineerin, BS Mathematics"
+  bio              : "BS Industrial Engineering, BS Mathematics"
   location         : "Atlanta, Georgia"
-  employer         : "Gerogia Institute of Technology"
+  employer         : "Georgia Institute of Technology"
   email            : "ahiray3@gatech.edu"
 
 
   # Academic websites
-  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Arnav%20Hiray"
+  arxiv            : #"https://arxiv.org/search/?searchtype=author&query=Arnav%20Hiray"
   googlescholar    : "https://scholar.google.com/citations?user=T_q5ZoQAAAAJ&hl=en"
   orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/scientific-contributions/Arnav-Hiray-2257580886"
+  researchgate     : #"https://www.researchgate.net/scientific-contributions/Arnav-Hiray-2257580886"
   scopus           : # URL
 
   # Repositories and software development
@@ -219,6 +219,9 @@ collections:
     permalink: /:collection/:path/
   mentors:
     output: true
+    permalink: /:collection/:path/
+  talks: 
+    ouput: true
     permalink: /:collection/:path/
 
 
