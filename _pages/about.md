@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
+---
 
   I am an Undergraduate Researcher and Teaching Assistant at Georgia Institute of Technology, pursuing dual majors in Industrial Engineering (with a focus on Advanced Studies in Operations Research and Statistics) and Mathematics (specializing in Probability and Statistics). My research centers on the application of network science to financial markets and the optimization of mathematical models.
 
