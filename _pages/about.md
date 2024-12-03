@@ -5,12 +5,13 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
 
-I am an Undergraduate Researcher and Teaching Assistant at Georgia Institute of Technology.
-I am majoring in Industrial Engineering (Advanced Studies in Operations Research and Statistics) and Mathematics (Probability and Statistics). My research is mainly focused on application of network science to financial markets as well as optimizing mathematical modelling. 
 
-I was honored with 'Fintech Fellow' at Georgia Tech Financial Services Innovation Lab (FSIL) for my contribution to research. I am associated with FSIL since my freshman year and has been actively involved in variour research since then. 
+  I am an Undergraduate Researcher and Teaching Assistant at Georgia Institute of Technology, pursuing dual majors in Industrial Engineering (with a focus on Advanced Studies in Operations Research and Statistics) and Mathematics (specializing in Probability and Statistics). My research centers on the application of network science to financial markets and the optimization of mathematical models.
 
-I am interested in researching stochastic processes at the intersection of probability, statistics, and optimization to advance methods for understanding interconnectedness in financial markets.
+  As a 'Fintech Fellow' at the Financial Services Innovation Lab (FSIL), I have been recognized for my significant contributions to research. Since my freshman year, I have been actively involved in various projects at FSIL, gaining valuable experience in cutting-edge financial and computational research.
+
+  My primary research interests lie in exploring stochastic processes at the intersection of probability, statistics, and optimization. I am particularly driven to develop innovative methods for analyzing and understanding interconnectedness in financial markets.
+
+
 
