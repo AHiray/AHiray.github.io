@@ -21,11 +21,11 @@ I am fortunate to have following mentors who shaped my interest in research with
   * Associate Chair for Graduate Studies Kiplinger Faculty Fellow Professor
   * https://scholar.google.com/citations?user=8GOp0bYAAAAJ&hl=en
 
- * Dr. Chen Zhou
+* Dr. Chen Zhou
   * Associate Chair for Undergraduate Studies Scott Faculty Fellow Associate Professor
   * https://scholar.google.com/citations?user=Ot_6YukAAAAJ&hl=en
 
- * Dr. Chen Zhou
+* Dr. Chen Zhou
   * PhD Candidate, Georgia Institute of Technology
   * https://scholar.google.com/citations?user=wGA2umEAAAAJ&hl=en
 
