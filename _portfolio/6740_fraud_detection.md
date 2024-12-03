@@ -5,7 +5,7 @@ categories:
   - Projects
 tags:
   - Class Project
-date: 2023-04-01
+published_date: false
 pdf_url: "https://drive.google.com/file/d/1_B2KF1h0Q4pd3q_Gt88zWHNyO8V3P0wO/view?usp=sharing"
 layout: single
 ---
