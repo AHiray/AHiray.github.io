@@ -6,10 +6,10 @@ categories:
 tags:
   - Directed Reading
 date: 2023-12-01
-pdf_url: "https://AHiray.github.io/_portfolio/portfolio_pdfs/DRP_Fall_2023_Optimal_Transport.pdf"
+pdf_url: "https://drive.google.com/file/d/1_B2KF1h0Q4pd3q_Gt88zWHNyO8V3P0wO/view?usp=sharing"
 layout: single
 ---
 
 ## Final Presentation Slides
-<iframe src="_portfolio/portfolio_pdfs/DRP_Fall_2023_Optimal_Transport.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://drive.google.com/file/d/1_B2KF1h0Q4pd3q_Gt88zWHNyO8V3P0wO/view?usp=sharing" width="100%" height="600px"></iframe>
 
