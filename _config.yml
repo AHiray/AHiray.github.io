@@ -224,10 +224,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks: 
-    ouput: true
+    output: true
     permalink: /:collection/:path/
   teaching: 
-    ouput: true
+    output: true
     permalink: /:collection/:path/
 
 
