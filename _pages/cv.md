@@ -29,7 +29,7 @@ Research
   * Researcher under Dr. Michael Lavigne
   * Focused on theoretical and computational math-bio modeling
   
-#Skills
+# - Skills
 #======
 #* Skill 1
 #* Skill 2
