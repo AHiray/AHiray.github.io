@@ -1,6 +1,6 @@
 ---
 title: "Credit Card Fraud Detection Using Machine Learning"
-excerpt: "Credit card fraud detection is a critical concern for financial institutions and individuals due to its significant financial impact and potential harm to personal credit."
+excerpt: "Credit card fraud detection is a critical concern for financial institutions. We benchmark machine learning methods as well as minority-sampling techniques. "
 categories:
   - Projects
 tags:
