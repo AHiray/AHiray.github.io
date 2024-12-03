@@ -10,3 +10,7 @@ pdf_url: "https://AHiray.github.io/_portfolio/portfolio_pdfs/DRP_Fall_2023_Optim
 layout: single
 ---
 
+
+## Final Presentation Slides
+<iframe src="https://AHiray.github.io/_portfolio/portfolio_pdfs/DRP_Fall_2023_Optimal_Transport.pdf" width="100%" height="600px"></iframe>
+
