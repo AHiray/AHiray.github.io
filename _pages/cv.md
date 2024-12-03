@@ -12,25 +12,22 @@ redirect_from:
 Education
 ======
 * Georgia Institute of Technology, Atlanta, Georgia
-  * B.S in Industrial Engineering (Advanced Studies in Operations Research and Statistics) (August 2021 - May 2025)
-  * B.S in Mathematics (Probability and Statistics)                                        (August 2021 - May 2025)
+  * B.S in Industrial Engineering (Advanced Studies in Operations Research and Statistics) (Aug 2021 - May 2025)
+  * B.S in Mathematics (Probability and Statistics)                                        (Aug 2021 - May 2025)
 
-Work experience
+Research
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2023 - present: AH. Milton Stewart School of Industrial and Systems Engineering
+  * Researcher under Dr. Debankur Mukherjee (ISYE) 
+  * Funded under NSF CCF grant 2113027
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2021: Georgia Tech Financial Services Innovation Lab (FSIL)
+  * Researcher under Dr. Sudheer Chava
+  * Scheller College of Business
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Southeast Center for Mathematics and Biology
+  * Researcher under Dr. Michael Lavigne
+  * Focused on theoretical and computational math-bio modeling
   
 Skills
 ======
