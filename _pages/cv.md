@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="https://AHiray.github.io/files/PhD_CV.pdf" width="100%" height="600px"></iframe>
+
 
 Publications
 ======
@@ -29,6 +29,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
