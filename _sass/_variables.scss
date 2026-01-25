@@ -55,24 +55,28 @@ $sidebar-link-max-width     : 250px;
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
+$gray                       : #9fb3c8;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$light-gray                 : mix(#fff, $gray, 30%);
+$lighter-gray               : mix(#fff, $gray, 75%);
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$body-color                 : #0b1220;
+$background-color           : #0b1220;
+$code-background-color      : #111827;
+$code-background-color-dark : #0f172a;
+$text-color                 : #e6eef9;
+$border-color               : #1f2a44;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$surface-color              : #121b2f;
+$surface-color-light        : #182545;
+$surface-color-bright       : #213356;
+
+$primary-color              : #4cc3ff;
+$success-color              : #22c55e;
+$warning-color              : #f59e0b;
+$danger-color               : #f97316;
+$info-color                 : #38bdf8;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -103,10 +107,10 @@ $xing-color                 : #006567;
 
 /* links */
 $link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
+$link-color-hover           : mix(#fff, $link-color, 15%);
+$link-color-visited         : mix(#fff, $link-color, 35%);
 $masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color-hover  : mix(#fff, $primary-color, 15%);
 
 
 /*

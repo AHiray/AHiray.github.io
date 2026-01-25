@@ -2,16 +2,15 @@
 permalink: /
 title: "Arnav Hiray"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-  I am an Undergraduate Researcher and Teaching Assistant at Georgia Institute of Technology, pursuing dual majors in Industrial Engineering (with a focus on Advanced Studies in Operations Research and Statistics) and Mathematics (specializing in Probability and Statistics). My research centers on the application of network science to financial markets and the optimization of mathematical models.
+Hi! I’m Arnav — a PhD student in Industrial Engineering & Operations Research at Georgia Tech. I build models that make messy, interconnected systems feel a little more understandable (and a lot more fun).
 
-  As a 'Fintech Fellow' at the Financial Services Innovation Lab (FSIL), I have been recognized for my significant contributions to research. Since my freshman year, I have been actively involved in various projects at FSIL, gaining valuable experience in cutting-edge financial and computational research.
+My research playground lives at the intersection of network science, stochastic processes, and optimization. I’m especially interested in how financial systems behave under uncertainty and how we can design methods that capture cascading risk, resilience, and structure.
 
-  My primary research interests lie in exploring stochastic processes at the intersection of probability, statistics, and optimization. I am particularly driven to develop innovative methods for analyzing and understanding interconnectedness in financial markets.
-
+Outside the whiteboard, I’m always prototyping new ideas, collaborating across disciplines, and turning curiosity into code. If you’re into probabilistic puzzles, graphs that actually explain something, or research that blends rigor with imagination, we’ll get along just fine.
 
 
