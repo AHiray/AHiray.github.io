@@ -12,6 +12,11 @@ body {
   padding: $masthead-height 0 0;
   padding-bottom: 9em;
   color: $text-color;
+  background-color: $background-color;
+  background-image:
+    radial-gradient(1200px circle at 10% -10%, rgba($primary-color, 0.25), transparent 55%),
+    radial-gradient(900px circle at 90% 0%, rgba($info-color, 0.2), transparent 60%),
+    linear-gradient(180deg, $background-color 0%, mix(#000, $background-color, 10%) 100%);
   font-family: $global-font-family;
   line-height: 1.5;
 
