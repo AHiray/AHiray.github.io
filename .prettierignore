@@ -6,13 +6,22 @@ _site/
 .bundle/
 vendor/
 
-# Jekyll/Liquid HTML templates
+# Jekyll/Liquid templates
 _includes/
 _layouts/
 _pages/**/*.html
-assets/html/
-talkmap/
+_scripts/
+*.liquid
+*.liquid.js
 
-# Generated/minified/vendor-ish JS
-assets/js/distillpub/
-talkmap/leaflet_dist/
+# Generated/vendor/minified assets
+assets/**/*.min.css
+assets/**/*.min.js
+assets/js/search/
+assets/css/bootstrap*.css
+assets/css/mdb.min.css
+assets/css/academicons.min.css
+_sass/font-awesome/
+
+# Reports / generated files
+lighthouse_results/
