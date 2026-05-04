@@ -83,12 +83,18 @@ jobs:
 
       - name: Install and build 🔧
         run: |
-          sudo apt-get update && sudo apt-get install -y imagemagick
-          pip3 install --upgrade nbconvert
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+          python -m pip install --upgrade pip
+          python -m pip install jupyter nbconvert
+
+          which convert
+          which jupyter
+
           export JEKYLL_ENV=production
           bundle exec jekyll clean
           bundle exec jekyll build --baseurl ""
-
+          
       - name: Check for unresolved placeholders
         run: |
           if grep -R "{{version}}" -n _site; then
