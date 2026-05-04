@@ -9,27 +9,49 @@ on:
     branches:
       - master
       - main
+    paths:
+      - "**/*.md"
+      - "**/*.yml"
+      - "**/*.yaml"
+      - "**/*.json"
+      - "**/*.css"
+      - "**/*.scss"
+      - "**/*.js"
+      - ".prettierrc"
+      - ".prettierignore"
+      - "package.json"
+      - "package-lock.json"
+      - ".github/workflows/prettier.yml"
 
 jobs:
   check:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
+
       - name: Setup Node.js ⚙️
         uses: actions/setup-node@v4
-      - name: Install Prettier 💾
-        run: npm install --save-dev --save-exact prettier
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install Node dependencies 💾
+        run: npm ci
+
       - name: Prettier Check 🔎
         id: prettier
         run: npx prettier "**/*.{md,yml,yaml,json,css,scss,js}" --check --ignore-path .prettierignore
+
       - name: Create diff 📝
-        if: ${{ failure() }}
+        if: ${{ failure() && steps.prettier.conclusion == 'failure' }}
         run: |
-          npx prettier . --write
+          npx prettier "**/*.{md,yml,yaml,json,css,scss,js}" --write --ignore-path .prettierignore
           git diff -- . ':(exclude)package-lock.json' ':(exclude)package.json' > diff.txt
           npm install -g diff2html-cli
           diff2html -i file -s side -F diff.html -- diff.txt
+
       - name: Upload html diff ⬆️
         id: artifact-upload
         if: ${{ failure() && steps.prettier.conclusion == 'failure' }}
@@ -38,6 +60,7 @@ jobs:
           name: HTML Diff
           path: diff.html
           retention-days: 7
+
       - name: Dispatch information to repository 🗣️
         if: ${{ failure() && steps.prettier.conclusion == 'failure' && github.event_name == 'pull_request' }}
         uses: peter-evans/repository-dispatch@v2
