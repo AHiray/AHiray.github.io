@@ -22,7 +22,13 @@
         </a>
       {% elsif site.enable_navbar_social %}
         <!-- Social Icons -->
-        <div class="navbar-brand social">{% social_links %}</div>
+        <div class="navbar-brand social">
+          {% for social in site.social_links %}
+            <a href="{{ social.url }}" title="{{ social.title }}" target="_blank" rel="noopener">
+              <i class="fa-brands fa-{{ social.icon }}"></i>
+            </a>
+          {% endfor %}
+        </div>
       {% endif %}
       <!-- Navbar Toggle -->
       <button
