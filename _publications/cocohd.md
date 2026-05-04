@@ -3,13 +3,12 @@ title: "CoCoHD: Congress Committee Hearing Dataset"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-1
-excerpt: 'U.S. congressional hearings significantly influence the national economy and social fabric, impacting individual lives. Despite their importance, there is a lack of comprehensive datasets for analyzing these discourses. '
+excerpt: "U.S. congressional hearings significantly influence the national economy and social fabric, impacting individual lives. Despite their importance, there is a lack of comprehensive datasets for analyzing these discourses. "
 date: 2024-11-01
-venue: 'Association for Computational Linguistics, Miami, Florida, USA'
-slidesurl: 'https://aclanthology.org/2024.findings-emnlp.911.pdf'
-paperurl: 'https://aclanthology.org/2024.findings-emnlp.911/?trk=public_post_comment-text'
-citation: ''
-
+venue: "Association for Computational Linguistics, Miami, Florida, USA"
+slidesurl: "https://aclanthology.org/2024.findings-emnlp.911.pdf"
+paperurl: "https://aclanthology.org/2024.findings-emnlp.911/?trk=public_post_comment-text"
+citation: ""
 ---
 
 Abstract
