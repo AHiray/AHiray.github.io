@@ -22,7 +22,7 @@ jobs:
         run: npm install --save-dev --save-exact prettier
       - name: Prettier Check 🔎
         id: prettier
-        run: npx prettier . --check
+        run: npx prettier "**/*.{md,yml,yaml,json,css,scss,js}" --check --ignore-path .prettierignore
       - name: Create diff 📝
         if: ${{ failure() }}
         run: |
