@@ -34,7 +34,9 @@ $(document).ready(function () {
   $("a").smoothScroll({ offset: -65 });
 
   // add lightbox class to all image links
-  $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
+  $(
+    "a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']",
+  ).addClass("image-popup");
 
   // Magnific-Popup options
   $(".image-popup").magnificPopup({
@@ -55,7 +57,10 @@ $(document).ready(function () {
     callbacks: {
       beforeOpen: function () {
         // just a hack that adds mfp-anim class to markup
-        this.st.image.markup = this.st.image.markup.replace("mfp-figure", "mfp-figure mfp-with-anim");
+        this.st.image.markup = this.st.image.markup.replace(
+          "mfp-figure",
+          "mfp-figure mfp-with-anim",
+        );
       },
     },
     closeOnContentClick: true,

@@ -194,7 +194,12 @@ html[data-theme-setting="light"] {
 .fa-half-sun-moon::after {
   content: "\f185";
   color: var(--global-text-color);
-  clip-path: polygon(calc(50% + 0.5px) 0, 100% 0, 100% 100%, calc(50% + 0.5px) 100%);
+  clip-path: polygon(
+    calc(50% + 0.5px) 0,
+    100% 0,
+    100% 100%,
+    calc(50% + 0.5px) 100%
+  );
   right: -1.5px; /* slight overflow to avoid right-edge clipping */
   transform: translateX(-1px); /* visually re-center the sun half */
 }

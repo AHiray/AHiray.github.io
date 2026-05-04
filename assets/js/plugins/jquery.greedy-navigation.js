@@ -13,7 +13,9 @@ var $hlinks = $("#site-nav .hidden-links");
 var breaks = [];
 
 function updateNav() {
-  var availableSpace = $btn.hasClass("hidden") ? $nav.width() : $nav.width() - $btn.width() - 30;
+  var availableSpace = $btn.hasClass("hidden")
+    ? $nav.width()
+    : $nav.width() - $btn.width() - 30;
 
   // The visible list is overflowing the nav
   if ($vlinks.width() > availableSpace) {
@@ -21,7 +23,10 @@ function updateNav() {
     breaks.push($vlinks.width());
 
     // Move item to the hidden list
-    $vlinks.children("*:not(.masthead__menu-item--lg)").last().prependTo($hlinks);
+    $vlinks
+      .children("*:not(.masthead__menu-item--lg)")
+      .last()
+      .prependTo($hlinks);
 
     // Show the dropdown btn
     if ($btn.hasClass("hidden")) {
