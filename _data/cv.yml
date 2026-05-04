@@ -14,12 +14,12 @@ cv:
     - network: LinkedIn
       username: example
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  #address:
+  #  street: 2712 Broadway St
+  #  city: San Francisco
+  #  region: California
+  #  postalCode: CA 94115
+  #  countryCode: US
 
   sections:
     Education:
