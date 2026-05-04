@@ -18,14 +18,6 @@ layout: default
     {{ content }}
   </article>
 
-  {% if page.related_publications %}
-    <h2>References</h2>
-    <div class="publications">
-      <!-- Remove: {% bibliography --cited_in_order %} -->
-      <!-- Add your bibliography content here or use a different approach -->
-    </div>
-  {% endif %}
-
   {% if site.giscus and page.giscus_comments %}
     {% include giscus.liquid %}
   {% endif %}
