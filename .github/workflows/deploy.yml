@@ -81,16 +81,20 @@ jobs:
       - name: Install JS dependencies
         run: npm ci
 
-      - name: Install and build 🔧
+      - name: Install system and Python dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y imagemagick
+          sudo apt-get install -y imagemagick imagemagick-6.q16
           python -m pip install --upgrade pip
-          python -m pip install jupyter nbconvert
+          python -m pip install jupyter nbconvert notebook
 
-          which convert
-          which jupyter
+          echo "convert path:"
+          which convert || true
+          echo "jupyter path:"
+          which jupyter || true
 
+      - name: Install and build 🔧
+        run: |
           export JEKYLL_ENV=production
           bundle exec jekyll clean
           bundle exec jekyll build --baseurl ""
